@@ -2,12 +2,10 @@
 
 ## *Leftist, Vegan, Taylor Swift Fan, Software Engineer*
 
-Currently preparing for my exams this semester.
+Experienced in building secure and scalable microservices with C# and ASP.NET Core.
 
-I'd love to get into open-source but I don't know how and where to start.
+Rust amateur
 
-<hr>
+---
 
-Experienced in building secure and scalable microservices in C# and ASP.NET Core.
-
-Passionate about Rust. But not experienced.
+Check out my pet project [homestream](https://github.com/polferov/homestream)
